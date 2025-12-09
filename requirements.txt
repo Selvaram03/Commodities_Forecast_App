@@ -6,3 +6,4 @@ pmdarima
 statsmodels
 scikit-learn
 prophet
+openpyxl
